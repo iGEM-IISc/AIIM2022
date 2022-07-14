@@ -34,11 +34,11 @@ sustainable bioeconomy.
 ## Schedule of the Event
 
 ### Day 1
-
+![Image](schedule_images/sched_day1.png)
 ### Day 2
-
+![Image](schedule_images/sched_day2.png)
 ### Day 3
-
+![Image](schedule_images/image.png)
 
 ## Highlights
 
