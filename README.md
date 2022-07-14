@@ -1,4 +1,4 @@
-# Welcome to AIIM 2022
+# Welcome to [AIIM 2022](https://igem-iisc.github.io/AIIM2022/)
 After a long pandemic full of virtual meetups, AIIM is back offline this year at Indian Institute of Science, Bengaluru.
 
 **Venue**: Faculty Hall, Main Building, Indian Institute of Science Bengaluru, Karnataka India-560012 
