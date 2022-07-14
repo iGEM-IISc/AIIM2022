@@ -3,4 +3,3 @@ title: All India iGEM Meet 2022
 description: AIIM 2022 to be held at Indian Institue of Science, Bengaluru from 23rd to 25th July 2022
 show_downloads: false
 logo: "AIIM 2022 Logo.png"
-{% raw %}{% seo %}{% endraw %}
