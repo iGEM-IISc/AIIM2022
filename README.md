@@ -10,7 +10,7 @@ All India iGEM Meet (AIIM) is a three-day regional conference from 23rd to 25th 
 The International Genetically Engineered Machine (iGEM) competition is a worldwide synthetic biology competition initially aimed at undergraduate university students but has since expanded to include divisions for high school students, entrepreneurs, and community laboratories, as well as 'over-graduates' initiated by MIT’s Independent Activities period.
 
 ## Participants
-```markdown
+```
 In this edition of AIIM, we have the following participants:
 
 - Delegates from 14 iGEM Teams from all over India
