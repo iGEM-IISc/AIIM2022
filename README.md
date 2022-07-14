@@ -10,7 +10,7 @@ All India iGEM Meet (AIIM) is a three-day regional conference from 23rd to 25th 
 The International Genetically Engineered Machine (iGEM) competition is a worldwide synthetic biology competition initially aimed at undergraduate university students but has since expanded to include divisions for high school students, entrepreneurs, and community laboratories, as well as 'over-graduates' initiated by MIT’s Independent Activities period.
 
 ## Participants
-```
+
 In this edition of AIIM, we have the following participants:
 
 - Delegates from 14 iGEM Teams from all over India
@@ -18,8 +18,6 @@ In this edition of AIIM, we have the following participants:
 - iGEM Entrepreneurship Program and Innovation Community 
 - Professors, Researchers from all fields of Biology
 - Alumni of iGEM
-
-```
 
 ### About the Teams and Participants!
 
@@ -37,8 +35,22 @@ sustainable bioeconomy.
 ![Image](schedule_images/sched_day1.png)
 ### Day 2
 ![Image](schedule_images/sched_day2.png)
+
+**Judging Panel**:
+ - Judge 1: [Tapan Chandra Adhyapak](http://www.iisertirupati.ac.in/faculty/adhyapak/adhyapak.php), Assistant Professor, IISER Tirupati 
+ - Judge 2: To be added soon!
+
+**Poster Presentation Judges**:
+- To be added soon!
+
 ### Day 3
 ![Image](schedule_images/image.png)
+
+**Prospective Professors for Talks**:
+- [Dr. Pranal Chandra](https://www.chandraslab.com/dr-pranjal-chandra), Assistant Professor, IIT (BHU) Varanasi
+- [Dr. Ramray Bhat](https://mrdg.iisc.ac.in/ramray-bhat/), Associate Professor. IISc Bengaluru
+- [Dr. Bhushan Toley](https://chemeng.iisc.ac.in/chemeweb/faculty_bhushan.htm),  Assistance Professor IISc Bengaluru and Co-founder Papyrus Diagnosics Pct. Ltd.
+- [Dr. Sumanta Bagchi](https://ces.iisc.ac.in/?q=user/85), Associate Professor IISc Bengaluru
 
 ## Highlights
 
