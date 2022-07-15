@@ -46,6 +46,7 @@ sustainable bioeconomy.
 
 ### Day 3
 ![Image](schedule_images/image.png)
+
 | Timing | Event |
 | --- | --- |
 | 9:40 AM -10:50 AM | Talk 1|
