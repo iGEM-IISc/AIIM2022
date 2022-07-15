@@ -38,6 +38,7 @@ sustainable bioeconomy.
 ![Image](schedule_images/sched_day2.png)
 
 <table class="table2">
+
 | **Timing** | **Mock Judging** | **Poster Presentation** |
 | :------: | :------: | :------: |
 | **10:00 AM - 11:30 AM** | **Pool A Part I** | **Pool B **|
@@ -45,6 +46,7 @@ sustainable bioeconomy.
 | **1:00 PM - 2:30 PM** | **Lunch** | **Lunch **|
 | **2:30 PM - 5:00 PM** | **Pool B Part I** | **Pool A **|
 | **5:30 PM - 6:10 PM** | **Pool B Part II** | **Pool A **|
+
 </table>
 **Judging Panel**:
  - Judge 1: [Tapan Chandra Adhyapak](http://www.iisertirupati.ac.in/faculty/adhyapak/adhyapak.php), Assistant Professor, IISER Tirupati 
