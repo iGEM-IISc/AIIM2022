@@ -45,16 +45,15 @@ sustainable bioeconomy.
 - To be added soon!
 
 ### Day 3
-![Image](schedule_images/image.png)
 
 | Timing | Event |
 | :------: | :------: |
-| 9:40 AM -10:50 AM | Talk 1|
-| 10:55 AM -12:00 PM | Talk 2|
-| 12:05 PM -1:20 PM | Talk 3|
-| 1:20 PM -2:30 PM | Lunch|
-| 2:30 PM -4:00 PM | Recreations|
-| 4:00 PM -6:30 PM | Campus Walk + Snacks|
+| 9:40 AM - 10:50 AM | Talk 1|
+| 10:55 AM - 12:00 PM | Talk 2|
+| 12:05 PM - 1:20 PM | Talk 3|
+| 1:20 PM - 2:30 PM | Lunch|
+| 2:30 PM - 4:00 PM | Recreations|
+| 4:00 PM - 6:30 PM | Campus Walk + Snacks|
 | 6:30 PM - 8:30 PM | Closing Event|
 
 **Prospective Professors for Talks**:
