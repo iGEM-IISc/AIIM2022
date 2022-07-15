@@ -33,9 +33,25 @@ sustainable bioeconomy.
 ## Schedule of the Event
 
 ### Day 1
-![Image](schedule_images/sched_day1.png)
+
+| **Timing** | **Event** |
+| :------: | :------: |
+| **9:30 AM - 9:45 AM** | **Inaugration** |
+| **9:45 AM - 10:00 AM** | **Speech by Dean/Director** |
+| **10:00 AM - 10:20 AM** | **Speech by Chief Guest** |
+| **10:20 AM - 10:30 AM** | **Schedule Announcement** |
+| **10:30 AM - 10:45 AM** | **Addressal by iGEM Ambassadors** |
+| **10:45 AM - 12:30 PM** | **iGEM Indian League Addressal** |
+| **12:30 PM - 12:40 PM** | **Life Beyond iGEM** |
+| **12:40 PM - 1:00 PM** | **Talk by Dr. Lavanya, iGEM Alumni** |
+| **1:00 PM - 1:20 PM** | **Talk by Ms Sana Jalili, iGEM Alumni** |
+| **1:20 PM - 3:00 PM** | **Lunch** |
+| **3:00 PM - 3:15 PM** | **Addressal by EPIC** |
+| **3:15 PM - 4:15 PM** | **Fireside Chat** |
+| **4:30 PM - 5:00 PM** | **Open House** |
+| **5:00 PM - 7:00 PM** | **Round Table** |
+
 ### Day 2
-![Image](schedule_images/sched_day2.png)
 
 | **Timing** | **Mock Judging** | **Poster Presentation** |
 | :------: | :------: | :------: |
