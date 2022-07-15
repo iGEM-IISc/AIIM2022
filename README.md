@@ -37,14 +37,15 @@ sustainable bioeconomy.
 ### Day 2
 ![Image](schedule_images/sched_day2.png)
 
-| Timing |Mock Judging | Poster Presentation|
+<table class="table2">
+| **Timing** | **Mock Judging** | **Poster Presentation** |
 | :------: | :------: | :------: |
-| **10:00 AM - 11:30 AM** | **Pool A Part I** | Pool B **|
-| **12:00 PM - 1:00 PM** | **Pool A Part II** | Pool B **|
-| **1:0 PM - 2:30 PM** | **Lunch** | **Lunch **|
+| **10:00 AM - 11:30 AM** | **Pool A Part I** | **Pool B **|
+| **12:00 PM - 1:00 PM** | **Pool A Part II** | **Pool B **|
+| **1:00 PM - 2:30 PM** | **Lunch** | **Lunch **|
 | **2:30 PM - 5:00 PM** | **Pool B Part I** | **Pool A **|
 | **5:30 PM - 6:10 PM** | **Pool B Part II** | **Pool A **|
-
+</table>
 **Judging Panel**:
  - Judge 1: [Tapan Chandra Adhyapak](http://www.iisertirupati.ac.in/faculty/adhyapak/adhyapak.php), Assistant Professor, IISER Tirupati 
  - Judge 2: To be added soon!
@@ -54,7 +55,7 @@ sustainable bioeconomy.
 
 ### Day 3
 
-| Timing | Event |
+| **Timing** | **Event** |
 | :------: | :------: |
 | **9:40 AM - 10:50 AM** | **Talk 1** |
 | **10:55 AM - 12:00 PM** | **Talk 2** |
