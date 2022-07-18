@@ -1,6 +1,6 @@
 
 <div class="typewriter">
- <h1>Welcome to <a "href"=https://igem-iisc.github.io/AIIM2022/> AIIM 2022</a></h1>
+ <h1>Welcome to <a href="https://igem-iisc.github.io/AIIM2022/"> AIIM 2022</a></h1>
 </div>
 
 After a long pandemic full of virtual meetups, AIIM is back offline this year at Indian Institute of Science, Bengaluru.
