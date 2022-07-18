@@ -4,11 +4,9 @@
 @import "{{ site.theme }}";
 
 body {
-background: rgb(122,213,183);
-background: -moz-linear-gradient(120deg, rgba(122,213,183,1) #4AC29A%, rgba(189,255,243,1) 100%);
-background: -webkit-linear-gradient(120deg, rgba(122,213,183,1) #4AC29A%, rgba(189,255,243,1) 100%);
-background: linear-gradient(120deg, rgba(122,213,183,1) #4AC29A%, rgba(189,255,243,1) 100%);
-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#7ad5b7",endColorstr="#bdfff3",GradientType=1);;
+background: #4AC29A;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #BDFFF3, #4AC29A);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #BDFFF3, #4AC29A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 table, th, td {
   border: 1px solid;
