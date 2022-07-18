@@ -17,7 +17,7 @@ th {background-color: #46b06d; color: #4c4c4c}
 tr:nth-child(even) {background-color: #c7e9d4;}
 tr:hover {background-color: #F5CBC9;}
 
-h1 {
+.typewriter h1 {
   overflow: hidden; /* Ensures the content is not revealed until the animation */
   border-right: .15em solid orange; /* The typwriter cursor */
   white-space: nowrap; /* Keeps the content on a single line */
