@@ -4,7 +4,8 @@
 @import "{{ site.theme }}";
 
 body {
-  background-color: #f0fff7;
+  background: rgb(155,250,184);
+background: linear-gradient(0deg, rgba(155,250,184,1) 0%, rgba(111,123,139,1) 100%);
 }
 table, th, td {
   border: 1px solid;
