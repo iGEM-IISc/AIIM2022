@@ -23,6 +23,7 @@ tr:hover {background-color: #F5CBC9;}
   white-space: nowrap; /* Keeps the content on a single line */
   margin: 0 auto; /* Gives that scrolling effect as the typing happens */
   text-align: center;
+  letter-spacing: .15em; /* Adjust as needed */
   animation: 
     typing 3.5s steps(40, end),
     blink-caret .5s step-end infinite;
@@ -31,7 +32,7 @@ tr:hover {background-color: #F5CBC9;}
 /* The typing effect */
 @keyframes typing {
   from { width: 0 }
-  to { width: 65% }
+  to { width: 100% }
 }
 
 /* The typewriter cursor effect */
