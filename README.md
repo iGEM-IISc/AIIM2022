@@ -81,35 +81,50 @@ Session 1:
  <details>
  <summary>Judge 1: <a href="http://www.iisertirupati.ac.in/faculty/adhyapak/adhyapak.php">Dr Tapan Chandra Adhyapak</a>, Assistant Professor, IISER Tirupati </summary>
  
-Hello
+![Tapan Chandra Adhyapak](https://iisc.ac.in/wp-content/uploads/2016/12/Bitasta-Das-300x246.jpg](http://www.iisertirupati.ac.in/faculty/adhyapak/adhyapak.jpg)
+Position: Assistant Professor
+Affiliation: Department of Physics, IISER Tirupati
+Research Interests: Physics of Active Particles, Nonequilibirium Statistical Physics, Driven Soft Biological Systems
 </details>
 
  <details><summary>Judge 2: <a href="https://iisc.ac.in/arting-science/dr-bitasta-das/">Dr Bitasta Das</a></summary>
  
- 
+![Bitasta Das](https://iisc.ac.in/wp-content/uploads/2016/12/Bitasta-Das-300x246.jpg)
+Position: Senior Editorial Assistant and UG-Instructor (Humanities)
+Affiliation: Indian Institute of Science, Bengaluru
  </details>
  
 <details><summary>Judge 3: <a href="https://www.ibab.ac.in/research/vijayalakshmi-mahadevan/">Dr Vijayalakshmi Mahadevan</a></summary>
 
-Hello
+![Vijalaksmhi Mahadevan](https://www.ibab.ac.in/wp-content/uploads/2019/04/Vijayalakshmi-Mahadevan-1.jpg)
+Position: Professor, Epigenetics and Image Informatics
+Affiliation: Institute of Bioinformatics and Applied Biotechnology, BioTech Park, Bengaluru
+Research Interests: Chromatin and Epigenetics, Disease Epigenetics, p53 mutations in cancer, epigenetic inhibitors, cancer epigenetics, imaging, machine learning
 </details>
 
 Session 2:
  
-<details><summary>Judge 1: <a href="http://www.iisertirupati.ac.in/faculty/adhyapak/adhyapak.php">Dr Tapan Chandra Adhyapak</a>, Assistant Professor, IISER Tirupati </summary>
+<details><summary>Judge 1: <a href="http://www.iisertirupati.ac.in/faculty/adhyapak/adhyapak.php">Dr Tapan Chandra Adhyapak</a></summary>
 
-Hello
+![Tapan Chandra Adhyapak](https://iisc.ac.in/wp-content/uploads/2016/12/Bitasta-Das-300x246.jpg](http://www.iisertirupati.ac.in/faculty/adhyapak/adhyapak.jpg)
+Position: Assistant Professor
+Affiliation: Department of Physics, IISER Tirupati
+Research Interests: Physics of Active Particles, Nonequilibirium Statistical Physics, Driven Soft Biological Systems
 </details>
  
 <details><summary>Judge 2: <a href="https://iisc.ac.in/arting-science/dr-bitasta-das/">Dr Bitasta Das</a></summary>
-![Bitasta Das](https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc19_hs38/bitasta%20das.jpeg?seed=21664&url=https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc19_hs38/bitasta%20das.jpeg)
+ 
+![Bitasta Das](https://iisc.ac.in/wp-content/uploads/2016/12/Bitasta-Das-300x246.jpg)
 Position: Senior Editorial Assistant and UG-Instructor (Humanities)
 Affiliation: Indian Institute of Science, Bengaluru
 </details>
    
-<details><summary>Judge 3: <a href="https://www.linkedin.com/in/sannula-kesavardhana-830243129/">Dr Kesavarsdhana Sannula</a></summary>
+<details><summary>Judge 3: <a href="https://biochem.iisc.ac.in/kesavardana-sannula.php">Dr Kesavarsdhana Sannula</a></summary>
 
-<p></p>
+![Keshavardhan Sannula](https://kesavlab.files.wordpress.com/2021/04/img_20210406_165518-1.jpg)
+Position: Assistant Professor
+Affiliation: Department of Biochemistry, Indian Institute of Science, Bengaluru
+Research Interests: Mechanisms of Innate Immune Sensing, Inflammation and Cell Death; How RNA Virus-Host interactions determine host-specific immunopathology or immune tolerance; evolution of immune evasion traits in RNA viruses
 </details>
 
 ### Day 3
