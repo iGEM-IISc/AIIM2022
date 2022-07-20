@@ -82,24 +82,25 @@ Session 1:
  <summary>Judge 1: <a href="http://www.iisertirupati.ac.in/faculty/adhyapak/adhyapak.php">Dr Tapan Chandra Adhyapak</a>, Assistant Professor, IISER Tirupati </summary>
  
 <img alt="Tapan Chandra Adhyapak" src="https://static.wixstatic.com/media/0578bc_a9f50c2f4f464b11b1e80e1efb0e8dc5~mv2.jpg/v1/fill/w_334,h_253,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/0578bc_a9f50c2f4f464b11b1e80e1efb0e8dc5~mv2.jpg"><br>
-**Position:** Assistant Professor<br>
-**Affiliation:** Department of Physics, IISER Tirupati<br>
-**Research Interests:** Physics of Active Particles, Nonequilibirium Statistical Physics, Driven Soft Biological Systems<br>
+<b>Position:<b> Assistant Professor<br>
+<b>Affiliation:<b> Department of Physics, IISER Tirupati<br>
+<b>Research Interests:<b> Physics of Active Particles, Nonequilibirium Statistical Physics, Driven Soft Biological Systems<br>
 </details>
 
  <details><summary>Judge 2: <a href="https://iisc.ac.in/arting-science/dr-bitasta-das/">Dr Bitasta Das</a></summary>
  
-<img alt="Bitasta Das" src="https://iisc.ac.in/wp-content/uploads/2016/12/Bitasta-Das-300x246.jpg"><br>
-**Position:** Senior Editorial Assistant and UG-Instructor (Humanities)<br>
-**Affiliation:** Indian Institute of Science, Bengaluru<br>
+
+<b>Position:<b> Senior Editorial Assistant and UG-Instructor (Humanities)<br>
+<b>Affiliation:<b> Indian Institute of Science, Bengaluru<br>
+ <img alt="Bitasta Das" src="https://iisc.ac.in/wp-content/uploads/2016/12/Bitasta-Das-300x246.jpg"><br>
  </details>
  
 <details><summary>Judge 3: <a href="https://www.ibab.ac.in/research/vijayalakshmi-mahadevan/">Dr Vijayalakshmi Mahadevan</a></summary>
 
-<img alt="Vijalaksmhi Mahadevan" src="https://www.ibab.ac.in/wp-content/uploads/2019/04/Vijayalakshmi-Mahadevan-1.jpg"><br>
-**Position:** Professor, Epigenetics and Image Informatics<br>
-**Affiliation:** Institute of Bioinformatics and Applied Biotechnology, BioTech Park, Bengaluru<br>
-**Research Interests:** Chromatin and Epigenetics, Disease Epigenetics, p53 mutations in cancer, epigenetic inhibitors, cancer epigenetics, imaging, machine learning<br>
+<b>Position:<b> Professor, Epigenetics and Image Informatics<br>
+<b>Affiliation:<b> Institute of Bioinformatics and Applied Biotechnology, BioTech Park, Bengaluru<br>
+<b>Research Interests:<b> Chromatin and Epigenetics, Disease Epigenetics, p53 mutations in cancer, epigenetic inhibitors, cancer epigenetics, imaging, machine learning<br>
+ <img alt="Vijalaksmhi Mahadevan" src="https://www.ibab.ac.in/wp-content/uploads/2019/04/Vijayalakshmi-Mahadevan-1.jpg"><br>
 </details>
 <br>
 
@@ -107,25 +108,25 @@ Session 2:
  
 <details><summary>Judge 1: <a href="http://www.iisertirupati.ac.in/faculty/adhyapak/adhyapak.php">Dr Tapan Chandra Adhyapak</a></summary>
 
+<b>Position:<b> Assistant Professor<br>
+<b>Affiliation:<b> Department of Physics, IISER Tirupati<br>
+<b>Research Interests:<b> Physics of Active Particles, Nonequilibirium Statistical Physics, Driven Soft Biological Systems<br>
 <img alt="Tapan Chandra Adhyapak" src="https://static.wixstatic.com/media/0578bc_a9f50c2f4f464b11b1e80e1efb0e8dc5~mv2.jpg/v1/fill/w_334,h_253,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/0578bc_a9f50c2f4f464b11b1e80e1efb0e8dc5~mv2.jpg"><br>
-**Position:** Assistant Professor<br>
-**Affiliation:** Department of Physics, IISER Tirupati<br>
-**Research Interests:** Physics of Active Particles, Nonequilibirium Statistical Physics, Driven Soft Biological Systems<br>
 </details>
  
 <details><summary>Judge 2: <a href="https://iisc.ac.in/arting-science/dr-bitasta-das/">Dr Bitasta Das</a></summary>
  
+<b>Position:<b> Senior Editorial Assistant and UG-Instructor (Humanities)<br>
+<b>Affiliation:<b> Indian Institute of Science, Bengaluru<br>
 <img alt="Bitasta Das" src="https://iisc.ac.in/wp-content/uploads/2016/12/Bitasta-Das-300x246.jpg"><br>
-**Position:** Senior Editorial Assistant and UG-Instructor (Humanities)<br>
-**Affiliation:** Indian Institute of Science, Bengaluru<br>
 </details>
    
 <details><summary>Judge 3: <a href="https://biochem.iisc.ac.in/kesavardana-sannula.php">Dr Kesavarsdhana Sannula</a></summary>
 
-<img alt="Keshavardhan Sannula" src="https://kesavlab.files.wordpress.com/2021/04/img_20210406_165518-1.jpg">
-**Position:** Assistant Professor<br>
-**Affiliation:** Department of Biochemistry, Indian Institute of Science, Bengaluru<br>
-**Research Interests:** Mechanisms of Innate Immune Sensing, Inflammation and Cell Death; How RNA Virus-Host interactions determine host-specific immunopathology or immune tolerance; evolution of immune evasion traits in RNA viruses<br>
+<b>Position:<b> Assistant Professor<br>
+<b>Affiliation:<b> Department of Biochemistry, Indian Institute of Science, Bengaluru<br>
+<b>Research Interests:<b> Mechanisms of Innate Immune Sensing, Inflammation and Cell Death; How RNA Virus-Host interactions determine host-specific immunopathology or immune tolerance; evolution of immune evasion traits in RNA viruses<br>
+<img alt="Keshavardhan Sannula" src="https://kesavlab.files.wordpress.com/2021/04/img_20210406_165518-1.jpg"><br>
 </details>
 <br>
 
@@ -145,18 +146,18 @@ Session 2:
 
 <details><summary> <a href="https://www.linkedin.com/in/lavanya-bhagavatula-8ba52442">Dr Ramray Bhat</a></summary>
  
-**Position:** Assistant Professor<br>
-**Affiliation:** Molecular Reproduction, Development and Genetics (MRDG) Indian Institute of Science
-**Research Interests:** Morphogenesis, cancer progression
+<b>Position:<b> Assistant Professor<br>
+<b>Affiliation:<b> Molecular Reproduction, Development and Genetics (MRDG) Indian Institute of Science
+<b>Research Interests:<b> Morphogenesis, cancer progression
  
 <img alt="Ramray Bhat" src="https://iiscprofiles.irins.org/assets/profile_images/66088.jpg">
 </details>
 
 <details><summary> <a href="https://www.linkedin.com/in/lavanya-bhagavatula-8ba52442">Dr Pranjal Chandra</a></summary>
  
-**Position:** Assistant Professor & Ramanujan Fellow<br>
-**Affiliation:** School of Biochemical Engineering, Indian Institute of Technology (BHU) Varanasi; Fellow, Indian Chemical Society<br>
-**Research Interests:** Sensing Technology, Nano-Biotechnology, and Material Science to provide pertinent solutions to healthcare
+<b>Position:<b> Assistant Professor & Ramanujan Fellow<br>
+<b>Affiliation:<b> School of Biochemical Engineering, Indian Institute of Technology (BHU) Varanasi; Fellow, Indian Chemical Society<br>
+<b>Research Interests:<b> Sensing Technology, Nano-Biotechnology, and Material Science to provide pertinent solutions to healthcare
  
 <img alt="Pranjal Chandra" src="https://static.wixstatic.com/media/24e6b3_deb82bcadc92428d90398cf9248ee228~mv2.jpg/v1/fill/w_314,h_394,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/IMG_20191230_174640.jpg">
 </details>
