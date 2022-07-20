@@ -60,7 +60,7 @@ sustainable bioeconomy.
 | **Timing** | **Event** |
 | :------: | :------: |
 | **9:30 AM - 10:15 AM**| **Talk by Dr. Ramray Bhat** |
-| **10:30 AM - 1:00 PM| **Judging Session Part I** |
+| **10:30 AM - 1:00 PM** | **Judging Session Part I** |
 | **1:00 PM - 2:30 PM** | **Lunch** |
 | **2:30 PM - 6:10 PM** | **Juding Session Part II** |
 | **7:00 PM onwards** | **Recreations + Dinner at Banquet Hall** |
