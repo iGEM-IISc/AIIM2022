@@ -77,35 +77,34 @@ sustainable bioeconomy.
 **Judging Panel**:
 
 Session 1:
+
  <details>
  <summary>Judge 1: <a href="http://www.iisertirupati.ac.in/faculty/adhyapak/adhyapak.php">Dr Tapan Chandra Adhyapak</a>, Assistant Professor, IISER Tirupati </summary>
  
 Hello
 </details>
 
- <details><summary>Judge 2: Dr Bitasta Das<\summary>
+ <details><summary>Judge 2: <a href="https://iisc.ac.in/arting-science/dr-bitasta-das/">Dr Bitasta Das</a><\summary>
  
  </details>
  
-<details><summary>Judge 3: Dr Vijayalakshmi Mahadevan<\summary>
+<details><summary>Judge 3: <a href="https://www.ibab.ac.in/research/vijayalakshmi-mahadevan/">Dr Vijayalakshmi Mahadevan</a><\summary>
  
  /details>
 
 Session 2:
+ 
 <details><summary>Judge 1: <a href="http://www.iisertirupati.ac.in/faculty/adhyapak/adhyapak.php">Dr Tapan Chandra Adhyapak</a>, Assistant Professor, IISER Tirupati </summary>
  
  </details>
  
-  <details><summary>Judge 2: Dr Bitasta Das<\summary>
+ <details><summary>Judge 2: <a href="https://iisc.ac.in/arting-science/dr-bitasta-das/">Dr Bitasta Das</a><\summary>
  
  </details>
    
- -  <details><summary>Judge 3: Dr Kesavarsdhana Mahadevan</summary>
- 
+ <details><summary>Judge 3: <a href="https://www.linkedin.com/in/sannula-kesavardhana-830243129/">Dr Kesavarsdhana Sannula</a></summary>
+  
  </details>
-
-**Poster Presentation Judges**:
-- To be added soon!
 
 ### Day 3
 
