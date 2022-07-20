@@ -57,11 +57,20 @@ sustainable bioeconomy.
 
 ### Day 2
 
+| **Timing** | **Event** |
+| :------: | :------: |
+| **9:30 AM - 10:15 AM**| **Talk by Dr. Ramray Bhat** |
+| **10:30 AM - 1:00 PM| **Judging Session Part I** |
+| **1:00 PM - 2:30 PM** | **Lunch** |
+| **2:30 PM - 6:10 PM** | **Juding Session Part II** |
+| **7:00 PM onwards** | **Recreations + Dinner at Banquet Hall** |
+
+<h4>Details about the Judging Session:</h4>
+
 | **Timing** | **Mock Judging** | **Poster Presentation** |
 | :------: | :------: | :------: |
 | **10:00 AM - 11:30 AM** | **Pool A Part I** | **Pool B** |
 | **12:00 PM - 1:00 PM** | **Pool A Part II** | **Pool B** |
-| **1:00 PM - 2:30 PM** | **Lunch** | **Lunch** |
 | **2:30 PM - 5:00 PM** | **Pool B Part I** | **Pool A** |
 | **5:30 PM - 6:10 PM** | **Pool B Part II** | **Pool A** |
 
@@ -76,8 +85,8 @@ sustainable bioeconomy.
 
 | **Timing** | **Event** |
 | :------: | :------: |
-| **9:40 AM - 10:50 AM** | **Talk 1** |
-| **10:55 AM - 12:00 PM** | **Talk 2** |
+| **9:40 AM - 10:50 AM** | **Talk 1: Dr Pranjal Chadra IIT BHU** |
+| **10:55 AM - 12:00 PM** | **Talk 2: Dr Varsha Jaisimha** |
 | **12:05 PM - 1:20 PM** | **Talk 3** |
 | **1:20 PM - 2:30 PM** | **Lunch** |
 | **2:30 PM - 4:00 PM** | **Recreations** |
