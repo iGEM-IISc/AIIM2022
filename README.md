@@ -86,7 +86,7 @@ Hello
 
  <details><summary>Judge 2: <a href="https://iisc.ac.in/arting-science/dr-bitasta-das/">Dr Bitasta Das</a></summary>
  
- Hello
+ 
  </details>
  
 <details><summary>Judge 3: <a href="https://www.ibab.ac.in/research/vijayalakshmi-mahadevan/">Dr Vijayalakshmi Mahadevan</a></summary>
@@ -102,8 +102,9 @@ Hello
 </details>
  
 <details><summary>Judge 2: <a href="https://iisc.ac.in/arting-science/dr-bitasta-das/">Dr Bitasta Das</a></summary>
-
-Hello
+![Bitasta Das](https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc19_hs38/bitasta%20das.jpeg?seed=21664&url=https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc19_hs38/bitasta%20das.jpeg)
+Position: Senior Editorial Assistant and UG-Instructor (Humanities)
+Affiliation: Indian Institute of Science, Bengaluru
 </details>
    
 <details><summary>Judge 3: <a href="https://www.linkedin.com/in/sannula-kesavardhana-830243129/">Dr Kesavarsdhana Sannula</a></summary>
