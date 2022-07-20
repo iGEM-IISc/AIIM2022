@@ -78,7 +78,8 @@ sustainable bioeconomy.
 
 Session 1:
  - Judge 1: <details><summary><a href="http://www.iisertirupati.ac.in/faculty/adhyapak/adhyapak.php">Dr Tapan Chandra Adhyapak</a>, Assistant Professor, IISER Tirupati </summary>
- <p>Hello</p></details>
+ <p>Hello</p>
+</details>
  - Judge 2: <details><summary>[Dr Bitasta Das]()<\summary>
  <p></p></details>
  - Judge 3:  <details><summary>[Dr Vijayalakshmi Mahadevan]()<\summary>
