@@ -84,12 +84,12 @@ Session 1:
 Hello
 </details>
 
- <details><summary>Judge 2: <a href="https://iisc.ac.in/arting-science/dr-bitasta-das/">Dr Bitasta Das</a><\summary>
+ <details><summary>Judge 2: <a href="https://iisc.ac.in/arting-science/dr-bitasta-das/">Dr Bitasta Das</a></summary>
  
  Hello
  </details>
  
-<details><summary>Judge 3: <a href="https://www.ibab.ac.in/research/vijayalakshmi-mahadevan/">Dr Vijayalakshmi Mahadevan</a><\summary>
+<details><summary>Judge 3: <a href="https://www.ibab.ac.in/research/vijayalakshmi-mahadevan/">Dr Vijayalakshmi Mahadevan</a></summary>
 
 Hello
 </details>
@@ -101,7 +101,7 @@ Session 2:
 Hello
 </details>
  
-<details><summary>Judge 2: <a href="https://iisc.ac.in/arting-science/dr-bitasta-das/">Dr Bitasta Das</a><\summary>
+<details><summary>Judge 2: <a href="https://iisc.ac.in/arting-science/dr-bitasta-das/">Dr Bitasta Das</a></summary>
 
 Hello
 </details>
