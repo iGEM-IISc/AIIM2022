@@ -218,6 +218,12 @@ iGEM Friendzymes 2021<br>
 - iGEM Community
 - Women in STEM (WiSTEM)
 
-### Support or Contact
+## Our Sponsors!
+
+![Coca-Cola](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Coca-Cola_logo.svg/2560px-Coca-Cola_logo.svg.png)
+![Promega](promega_logo.png)
+![IISc Student Council](student_council.png)
+
+## Support or Contact
 
 Do you have any queries or wish to contact us? Feel free to drop an [email](mailto:igem.ug@iisc.ac.in). If you are looking to sponsor us, please send us an [email](mailto:igem.ug@iisc.ac.in).
