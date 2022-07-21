@@ -220,9 +220,11 @@ iGEM Friendzymes 2021<br>
 
 ## Our Sponsors!
 
-<img alt="Coca-Cola" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Coca-Cola_logo.svg/2560px-Coca-Cola_logo.svg.png" style="height:50%">
-<img alt="Promega" src="promega_logo.png" style="height:50%">
-<img alt="IISc Student Council" src="student_council.png" style="height:50%">
+<div class="sponsorship">
+ <img alt="Coca-Cola" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Coca-Cola_logo.svg/2560px-Coca-Cola_logo.svg.png">
+ <img alt="Promega" src="promega_logo.png">
+ <img alt="IISc Student Council" src="student_council.png">
+</div>
 
 ## Support or Contact
 
